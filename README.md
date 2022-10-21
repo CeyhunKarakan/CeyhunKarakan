@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @CeyhunKarakan
+- 👀 I’m interested in Backend Technologies on .NET Stack (.NET Core, .NET Core MVC, .NET Core Web API)
+- 🌱 I’m currently learning Microservices & Design Patterns
+- 💞️ I’m looking to collaborate on Innova
+- 📫 How to reach me => karakanceyhun@hotmail.com
+
+<!---
+CeyhunKarakan/CeyhunKarakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

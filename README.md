@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CeyhunKarakan
 - 👀 I’m interested in Backend Technologies on .NET Stack (.NET Core, .NET Core MVC, .NET Core Web API)
 - 🌱 I’m currently learning Microservices & Design Patterns
-- 💞️ I’m looking to collaborate on Innova
+- 💞️ I’m looking to collaborate on Innova Bilişim (Ankara, Turkey)
 - 📫 How to reach me => karakanceyhun@hotmail.com
 
 <!---

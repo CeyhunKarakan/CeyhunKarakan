@@ -1,3 +1,21 @@
+![](https://komarev.com/ghpvc/?username=alierguc)
+
+
+<details>
+  <summary>:star: My Github Stats</summary>
+ 
+![Ceyhun Karakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeyhunKarakan&theme=vue&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeyhunKarakan&theme=vue&show_icons=true&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CeyhunKarakan&theme=vue&hide_border=true)](https://git.io/streak-stats)
+[![CeyhunKarakan's github trophy](https://github-profile-trophy.vercel.app/?username=CeyhunKarakan&row=1&theme=vue&hide_border=true)](https://github.com/CeyhunKarakan/github-profile-trophy)
+
+</details>
+
+<br/>
+<br/>
+<br/>
+
+
 - 👋 Hi it's @CeyhunKarakan
 
 - I'm passionate about technology and software development.

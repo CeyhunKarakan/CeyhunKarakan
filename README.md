@@ -1,7 +1,5 @@
-![](https://komarev.com/ghpvc/?username=alierguc)
+![](https://komarev.com/ghpvc/?username=CeyhunKarakan)
 
-
-<details>
   <summary>:star: My Github Stats</summary>
  
 ![Ceyhun Karakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeyhunKarakan&theme=vue&show_icons=true&hide_border=true)
@@ -9,16 +7,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CeyhunKarakan&theme=vue&hide_border=true)](https://git.io/streak-stats)
 [![CeyhunKarakan's github trophy](https://github-profile-trophy.vercel.app/?username=CeyhunKarakan&row=1&theme=vue&hide_border=true)](https://github.com/CeyhunKarakan/github-profile-trophy)
 
-</details>
-
-<br/>
-<br/>
 <br/>
 
 
 - 👋 Hi it's @CeyhunKarakan
 
-- I'm passionate about technology and software development.
+- 👦 I'm passionate about technology and software development.
 - 👀 I’m interested in Backend Technologies on .NET Stack (.NET Core, .NET Core MVC, .NET Core Web API, EF Core, Dapper, Docker)
 - 🌱 I’m currently learning Microservices & Design Patterns
 - 💞️ I’m working at <a href="https://www.innova.com.tr/tr"> Innova</a> as a Software Development Specialist

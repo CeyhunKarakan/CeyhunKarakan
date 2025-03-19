@@ -15,7 +15,7 @@
 - 👦 I'm passionate about technology and software development.
 - 👀 I’m interested in Backend Technologies on .NET Stack (.NET Core, .NET Core MVC, .NET Core Web API, EF Core, Dapper, Docker)
 - 🌱 I’m currently learning Microservices & Design Patterns
-- 💞️ I’m working at <a href="https://www.innova.com.tr/tr"> Innova</a> as a Software Development Specialist
+- 💞️ I’m working at <a href="https://www.akbank.com/"> Akbank</a> as a Senior Software Engineer
 - 📫 You can reach me on karakanceyhun@hotmail.com || https://www.linkedin.com/in/ceyhunkarakan/
 
 <!---
